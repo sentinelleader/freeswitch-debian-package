@@ -2,6 +2,8 @@
 
 This repo contains the debian files needed for building deb packages for UBUNTU, (Tested on ubuntu 12.04 and 14.04). There is a separate debian packaging files for music and sound. Below are the steps to build the packages.
 
+Default Prefix Directory is `/usr/local/freeswitch`
+
 ####Building Freeswitch packages
 
   Clone your Freeswitch repo
