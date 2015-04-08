@@ -1,0 +1,4 @@
+/usr/local/freeswitch/include
+/usr/local/freeswitch/lib/libfreeswitch.so
+/usr/local/freeswitch/lib/*.a
+/usr/local/freeswitch/lib/pkgconfig
